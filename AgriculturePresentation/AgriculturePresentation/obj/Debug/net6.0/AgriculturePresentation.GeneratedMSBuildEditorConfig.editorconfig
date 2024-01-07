@@ -1,0 +1,245 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = AgriculturePresentation
+build_property.RootNamespace = AgriculturePresentation
+build_property.ProjectDir = C:\Users\cemre\Desktop\TEKRARCALISMA_CSHARP\UDEMY\2-OOP\AgriculturePresentation\AgriculturePresentation\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\cemre\Desktop\TEKRARCALISMA_CSHARP\UDEMY\2-OOP\AgriculturePresentation\AgriculturePresentation
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/cemre/Desktop/TEKRARCALISMA_CSHARP/UDEMY/2-OOP/AgriculturePresentation/AgriculturePresentation/Views/AdminPartials/PartialHead.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5QYXJ0aWFsc1xQYXJ0aWFsSGVhZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cemre/Desktop/TEKRARCALISMA_CSHARP/UDEMY/2-OOP/AgriculturePresentation/AgriculturePresentation/Views/AdminPartials/PartialNavbar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5QYXJ0aWFsc1xQYXJ0aWFsTmF2YmFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cemre/Desktop/TEKRARCALISMA_CSHARP/UDEMY/2-OOP/AgriculturePresentation/AgriculturePresentation/Views/AdminPartials/PartialScript.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5QYXJ0aWFsc1xQYXJ0aWFsU2NyaXB0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cemre/Desktop/TEKRARCALISMA_CSHARP/UDEMY/2-OOP/AgriculturePresentation/AgriculturePresentation/Views/AdminPartials/PartialSidebar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5QYXJ0aWFsc1xQYXJ0aWFsU2lkZWJhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cemre/Desktop/TEKRARCALISMA_CSHARP/UDEMY/2-OOP/AgriculturePresentation/AgriculturePresentation/Views/Admin/AddAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRkQWRtaW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cemre/Desktop/TEKRARCALISMA_CSHARP/UDEMY/2-OOP/AgriculturePresentation/AgriculturePresentation/Views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cemre/Desktop/TEKRARCALISMA_CSHARP/UDEMY/2-OOP/AgriculturePresentation/AgriculturePresentation/Views/Adress/EditAdress.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRyZXNzXEVkaXRBZHJlc3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cemre/Desktop/TEKRARCALISMA_CSHARP/UDEMY/2-OOP/AgriculturePresentation/AgriculturePresentation/Views/Adress/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRyZXNzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cemre/Desktop/TEKRARCALISMA_CSHARP/UDEMY/2-OOP/AgriculturePresentation/AgriculturePresentation/Views/Announcement/AddAnnouncement.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5ub3VuY2VtZW50XEFkZEFubm91bmNlbWVudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cemre/Desktop/TEKRARCALISMA_CSHARP/UDEMY/2-OOP/AgriculturePresentation/AgriculturePresentation/Views/Announcement/EditAnnouncement.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5ub3VuY2VtZW50XEVkaXRBbm5vdW5jZW1lbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cemre/Desktop/TEKRARCALISMA_CSHARP/UDEMY/2-OOP/AgriculturePresentation/AgriculturePresentation/Views/Announcement/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5ub3VuY2VtZW50XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cemre/Desktop/TEKRARCALISMA_CSHARP/UDEMY/2-OOP/AgriculturePresentation/AgriculturePresentation/Views/Chart/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcnRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cemre/Desktop/TEKRARCALISMA_CSHARP/UDEMY/2-OOP/AgriculturePresentation/AgriculturePresentation/Views/Contact/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cemre/Desktop/TEKRARCALISMA_CSHARP/UDEMY/2-OOP/AgriculturePresentation/AgriculturePresentation/Views/Contact/MessageDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxNZXNzYWdlRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cemre/Desktop/TEKRARCALISMA_CSHARP/UDEMY/2-OOP/AgriculturePresentation/AgriculturePresentation/Views/Dashboard/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cemre/Desktop/TEKRARCALISMA_CSHARP/UDEMY/2-OOP/AgriculturePresentation/AgriculturePresentation/Views/Default/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVmYXVsdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cemre/Desktop/TEKRARCALISMA_CSHARP/UDEMY/2-OOP/AgriculturePresentation/AgriculturePresentation/Views/Default/ScriptPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVmYXVsdFxTY3JpcHRQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cemre/Desktop/TEKRARCALISMA_CSHARP/UDEMY/2-OOP/AgriculturePresentation/AgriculturePresentation/Views/Default/SendMessage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVmYXVsdFxTZW5kTWVzc2FnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cemre/Desktop/TEKRARCALISMA_CSHARP/UDEMY/2-OOP/AgriculturePresentation/AgriculturePresentation/Views/Deneme/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVuZW1lXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cemre/Desktop/TEKRARCALISMA_CSHARP/UDEMY/2-OOP/AgriculturePresentation/AgriculturePresentation/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cemre/Desktop/TEKRARCALISMA_CSHARP/UDEMY/2-OOP/AgriculturePresentation/AgriculturePresentation/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cemre/Desktop/TEKRARCALISMA_CSHARP/UDEMY/2-OOP/AgriculturePresentation/AgriculturePresentation/Views/Image/AddImage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1hZ2VcQWRkSW1hZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cemre/Desktop/TEKRARCALISMA_CSHARP/UDEMY/2-OOP/AgriculturePresentation/AgriculturePresentation/Views/Image/EditImage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1hZ2VcRWRpdEltYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cemre/Desktop/TEKRARCALISMA_CSHARP/UDEMY/2-OOP/AgriculturePresentation/AgriculturePresentation/Views/Image/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1hZ2VcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cemre/Desktop/TEKRARCALISMA_CSHARP/UDEMY/2-OOP/AgriculturePresentation/AgriculturePresentation/Views/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cemre/Desktop/TEKRARCALISMA_CSHARP/UDEMY/2-OOP/AgriculturePresentation/AgriculturePresentation/Views/Login/SignUp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cU2lnblVwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cemre/Desktop/TEKRARCALISMA_CSHARP/UDEMY/2-OOP/AgriculturePresentation/AgriculturePresentation/Views/Profile/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmlsZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cemre/Desktop/TEKRARCALISMA_CSHARP/UDEMY/2-OOP/AgriculturePresentation/AgriculturePresentation/Views/Report/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVwb3J0XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cemre/Desktop/TEKRARCALISMA_CSHARP/UDEMY/2-OOP/AgriculturePresentation/AgriculturePresentation/Views/Service/AddService.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZVxBZGRTZXJ2aWNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cemre/Desktop/TEKRARCALISMA_CSHARP/UDEMY/2-OOP/AgriculturePresentation/AgriculturePresentation/Views/Service/EditService.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZVxFZGl0U2VydmljZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cemre/Desktop/TEKRARCALISMA_CSHARP/UDEMY/2-OOP/AgriculturePresentation/AgriculturePresentation/Views/Service/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cemre/Desktop/TEKRARCALISMA_CSHARP/UDEMY/2-OOP/AgriculturePresentation/AgriculturePresentation/Views/Shared/Components/_AboutPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0Fib3V0UGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cemre/Desktop/TEKRARCALISMA_CSHARP/UDEMY/2-OOP/AgriculturePresentation/AgriculturePresentation/Views/Shared/Components/_AdressPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0FkcmVzc1BhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cemre/Desktop/TEKRARCALISMA_CSHARP/UDEMY/2-OOP/AgriculturePresentation/AgriculturePresentation/Views/Shared/Components/_AnnouncementPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0Fubm91bmNlbWVudFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cemre/Desktop/TEKRARCALISMA_CSHARP/UDEMY/2-OOP/AgriculturePresentation/AgriculturePresentation/Views/Shared/Components/_DashboardChartPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0Rhc2hib2FyZENoYXJ0UGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cemre/Desktop/TEKRARCALISMA_CSHARP/UDEMY/2-OOP/AgriculturePresentation/AgriculturePresentation/Views/Shared/Components/_DashboardHeaderPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0Rhc2hib2FyZEhlYWRlclBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cemre/Desktop/TEKRARCALISMA_CSHARP/UDEMY/2-OOP/AgriculturePresentation/AgriculturePresentation/Views/Shared/Components/_DashboardNavbarPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0Rhc2hib2FyZE5hdmJhclBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cemre/Desktop/TEKRARCALISMA_CSHARP/UDEMY/2-OOP/AgriculturePresentation/AgriculturePresentation/Views/Shared/Components/_DashboardOverviewPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0Rhc2hib2FyZE92ZXJ2aWV3UGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cemre/Desktop/TEKRARCALISMA_CSHARP/UDEMY/2-OOP/AgriculturePresentation/AgriculturePresentation/Views/Shared/Components/_DashboardScriptPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0Rhc2hib2FyZFNjcmlwdFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cemre/Desktop/TEKRARCALISMA_CSHARP/UDEMY/2-OOP/AgriculturePresentation/AgriculturePresentation/Views/Shared/Components/_DashboardTablePartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0Rhc2hib2FyZFRhYmxlUGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cemre/Desktop/TEKRARCALISMA_CSHARP/UDEMY/2-OOP/AgriculturePresentation/AgriculturePresentation/Views/Shared/Components/_GalleryPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0dhbGxlcnlQYXJ0aWFsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cemre/Desktop/TEKRARCALISMA_CSHARP/UDEMY/2-OOP/AgriculturePresentation/AgriculturePresentation/Views/Shared/Components/_HeadPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0hlYWRQYXJ0aWFsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cemre/Desktop/TEKRARCALISMA_CSHARP/UDEMY/2-OOP/AgriculturePresentation/AgriculturePresentation/Views/Shared/Components/_MapPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX01hcFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cemre/Desktop/TEKRARCALISMA_CSHARP/UDEMY/2-OOP/AgriculturePresentation/AgriculturePresentation/Views/Shared/Components/_NavbarPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX05hdmJhclBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cemre/Desktop/TEKRARCALISMA_CSHARP/UDEMY/2-OOP/AgriculturePresentation/AgriculturePresentation/Views/Shared/Components/_ServicePartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1NlcnZpY2VQYXJ0aWFsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cemre/Desktop/TEKRARCALISMA_CSHARP/UDEMY/2-OOP/AgriculturePresentation/AgriculturePresentation/Views/Shared/Components/_SocialMedyaPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1NvY2lhbE1lZHlhUGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cemre/Desktop/TEKRARCALISMA_CSHARP/UDEMY/2-OOP/AgriculturePresentation/AgriculturePresentation/Views/Shared/Components/_TeamPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1RlYW1QYXJ0aWFsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cemre/Desktop/TEKRARCALISMA_CSHARP/UDEMY/2-OOP/AgriculturePresentation/AgriculturePresentation/Views/Shared/Components/_TopAdressPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1RvcEFkcmVzc1BhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cemre/Desktop/TEKRARCALISMA_CSHARP/UDEMY/2-OOP/AgriculturePresentation/AgriculturePresentation/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cemre/Desktop/TEKRARCALISMA_CSHARP/UDEMY/2-OOP/AgriculturePresentation/AgriculturePresentation/Views/Shared/_AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BZG1pbkxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cemre/Desktop/TEKRARCALISMA_CSHARP/UDEMY/2-OOP/AgriculturePresentation/AgriculturePresentation/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cemre/Desktop/TEKRARCALISMA_CSHARP/UDEMY/2-OOP/AgriculturePresentation/AgriculturePresentation/Views/Team/AddTeam.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhbVxBZGRUZWFtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cemre/Desktop/TEKRARCALISMA_CSHARP/UDEMY/2-OOP/AgriculturePresentation/AgriculturePresentation/Views/Team/EditTeam.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhbVxFZGl0VGVhbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cemre/Desktop/TEKRARCALISMA_CSHARP/UDEMY/2-OOP/AgriculturePresentation/AgriculturePresentation/Views/Team/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhbVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cemre/Desktop/TEKRARCALISMA_CSHARP/UDEMY/2-OOP/AgriculturePresentation/AgriculturePresentation/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cemre/Desktop/TEKRARCALISMA_CSHARP/UDEMY/2-OOP/AgriculturePresentation/AgriculturePresentation/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cemre/Desktop/TEKRARCALISMA_CSHARP/UDEMY/2-OOP/AgriculturePresentation/AgriculturePresentation/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-iwnau4nu6e

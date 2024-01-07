@@ -1,0 +1,14 @@
+C:\Users\cemre\Desktop\TEKRARCALISMA_CSHARP\UDEMY\2-OOP\AgriculturePresentation\EntityLayer\bin\Debug\net6.0\EntityLayer.deps.json
+C:\Users\cemre\Desktop\TEKRARCALISMA_CSHARP\UDEMY\2-OOP\AgriculturePresentation\EntityLayer\bin\Debug\net6.0\EntityLayer.runtimeconfig.json
+C:\Users\cemre\Desktop\TEKRARCALISMA_CSHARP\UDEMY\2-OOP\AgriculturePresentation\EntityLayer\bin\Debug\net6.0\EntityLayer.dll
+C:\Users\cemre\Desktop\TEKRARCALISMA_CSHARP\UDEMY\2-OOP\AgriculturePresentation\EntityLayer\bin\Debug\net6.0\EntityLayer.pdb
+C:\Users\cemre\Desktop\TEKRARCALISMA_CSHARP\UDEMY\2-OOP\AgriculturePresentation\EntityLayer\obj\Debug\net6.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\cemre\Desktop\TEKRARCALISMA_CSHARP\UDEMY\2-OOP\AgriculturePresentation\EntityLayer\obj\Debug\net6.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cemre\Desktop\TEKRARCALISMA_CSHARP\UDEMY\2-OOP\AgriculturePresentation\EntityLayer\obj\Debug\net6.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\cemre\Desktop\TEKRARCALISMA_CSHARP\UDEMY\2-OOP\AgriculturePresentation\EntityLayer\obj\Debug\net6.0\EntityLayer.AssemblyInfo.cs
+C:\Users\cemre\Desktop\TEKRARCALISMA_CSHARP\UDEMY\2-OOP\AgriculturePresentation\EntityLayer\obj\Debug\net6.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\cemre\Desktop\TEKRARCALISMA_CSHARP\UDEMY\2-OOP\AgriculturePresentation\EntityLayer\obj\Debug\net6.0\EntityLayer.dll
+C:\Users\cemre\Desktop\TEKRARCALISMA_CSHARP\UDEMY\2-OOP\AgriculturePresentation\EntityLayer\obj\Debug\net6.0\refint\EntityLayer.dll
+C:\Users\cemre\Desktop\TEKRARCALISMA_CSHARP\UDEMY\2-OOP\AgriculturePresentation\EntityLayer\obj\Debug\net6.0\EntityLayer.pdb
+C:\Users\cemre\Desktop\TEKRARCALISMA_CSHARP\UDEMY\2-OOP\AgriculturePresentation\EntityLayer\obj\Debug\net6.0\EntityLayer.genruntimeconfig.cache
+C:\Users\cemre\Desktop\TEKRARCALISMA_CSHARP\UDEMY\2-OOP\AgriculturePresentation\EntityLayer\obj\Debug\net6.0\ref\EntityLayer.dll

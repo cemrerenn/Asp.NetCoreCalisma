@@ -1,0 +1,17 @@
+C:\Users\cemre\Desktop\TEKRARCALISMA_CSHARP\UDEMY\2-OOP\AgriculturePresentation\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+C:\Users\cemre\Desktop\TEKRARCALISMA_CSHARP\UDEMY\2-OOP\AgriculturePresentation\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.runtimeconfig.json
+C:\Users\cemre\Desktop\TEKRARCALISMA_CSHARP\UDEMY\2-OOP\AgriculturePresentation\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\cemre\Desktop\TEKRARCALISMA_CSHARP\UDEMY\2-OOP\AgriculturePresentation\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\cemre\Desktop\TEKRARCALISMA_CSHARP\UDEMY\2-OOP\AgriculturePresentation\DataAccessLayer\bin\Debug\net6.0\EntityLayer.dll
+C:\Users\cemre\Desktop\TEKRARCALISMA_CSHARP\UDEMY\2-OOP\AgriculturePresentation\DataAccessLayer\bin\Debug\net6.0\EntityLayer.pdb
+C:\Users\cemre\Desktop\TEKRARCALISMA_CSHARP\UDEMY\2-OOP\AgriculturePresentation\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\cemre\Desktop\TEKRARCALISMA_CSHARP\UDEMY\2-OOP\AgriculturePresentation\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cemre\Desktop\TEKRARCALISMA_CSHARP\UDEMY\2-OOP\AgriculturePresentation\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\cemre\Desktop\TEKRARCALISMA_CSHARP\UDEMY\2-OOP\AgriculturePresentation\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\cemre\Desktop\TEKRARCALISMA_CSHARP\UDEMY\2-OOP\AgriculturePresentation\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\cemre\Desktop\TEKRARCALISMA_CSHARP\UDEMY\2-OOP\AgriculturePresentation\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\cemre\Desktop\TEKRARCALISMA_CSHARP\UDEMY\2-OOP\AgriculturePresentation\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+C:\Users\cemre\Desktop\TEKRARCALISMA_CSHARP\UDEMY\2-OOP\AgriculturePresentation\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+C:\Users\cemre\Desktop\TEKRARCALISMA_CSHARP\UDEMY\2-OOP\AgriculturePresentation\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\cemre\Desktop\TEKRARCALISMA_CSHARP\UDEMY\2-OOP\AgriculturePresentation\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\cemre\Desktop\TEKRARCALISMA_CSHARP\UDEMY\2-OOP\AgriculturePresentation\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll

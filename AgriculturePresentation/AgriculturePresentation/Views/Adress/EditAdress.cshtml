@@ -1,0 +1,42 @@
+﻿@model EntityLayer.Concrete.Adress
+@{
+    ViewData["Title"] = "AddService";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="col-12 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Adres Bilgisi Güncelleme Sayfası</h4>
+
+            <form class="forms-sample" method="post">
+                <div class="form-group">
+                    @Html.HiddenFor(x=>x.AdressID)
+                    <label for="exampleInputUsername1">Açıklama 1</label>
+                    <span asp-validation-for="Desctiption1" class="text-danger"></span>
+                    <input type="text" class="form-control" id="exampleInputUsername1" asp-for="Desctiption1" placeholder="Açıklama 1 Giriniz.">
+                    <br />
+                    <label for="exampleInputUsername1">Açıklama 2</label>
+                    <span asp-validation-for="Desctiption2" class="text-danger"></span>
+                    <input type="text" class="form-control" id="exampleInputUsername1" asp-for="Desctiption2" placeholder="Açıklama 2 Giriniz.">
+                    <br />
+                    <label for="exampleInputUsername1">Açıklama 3</label>
+                    <span asp-validation-for="Desctiption3" class="text-danger"></span>
+                    <input type="text" class="form-control" id="exampleInputUsername1" asp-for="Desctiption3" placeholder="Açıklama 3 Giriniz.">
+                    <br />
+                    <label for="exampleInputUsername1">Açıklama 4</label>
+                    <span asp-validation-for="Desctiption4" class="text-danger"></span>
+                    <input type="text" class="form-control" id="exampleInputUsername1" asp-for="Desctiption4" placeholder="Açıklama 2 Giriniz.">
+                    <br />
+                    <label for="exampleInputUsername1">Harita Bilgisi</label>
+                    <span asp-validation-for="Mapinfo" class="text-danger"></span>
+                    <input type="text" class="form-control" id="exampleInputUsername1" asp-for="Mapinfo" placeholder="Harita bilgisi giriniz">
+                </div>
+                <button type="submit" class="btn btn-primary me-2">Kaydet</button>
+
+            </form>
+        </div>
+    </div>
+</div>
+
+
